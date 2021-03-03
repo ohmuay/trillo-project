@@ -1,3 +1,6 @@
+# Deployed on github-pages at (https://ohmuay.github.io/trillo-project/)
+### This project is focused on CSS/SASS but built with create-react-app just to use SASS compiler
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
